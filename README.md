@@ -4,7 +4,7 @@
 javac *.java
 </li>
 <li>
-To run the driver command use the below command
+To run the driver use the below command
 <pre>java DecisionTreeDriver &lt; L &gt; &lt; K &gt; &lt; training-set &gt; &lt; validation-set &gt; &lt; test-set &gt; &lt; to-print : YES / NO &gt;</pre>
 </li>
 </ul>
